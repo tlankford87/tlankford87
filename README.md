@@ -1,3 +1,5 @@
+![banner](https://github.com/tlankford87/tlankford87/blob/main/tlankford87Banner.png)
+
 # Hi there 👋, I'm Thomas Lankford
 ### And I am a builder.
 As a builder, I have a passion for taking my love of building into all aspects of my life, whether it's developing my own skills, helping others improve theirs, or building effective teams. In my current role, I specialize in creating custom web applications that help businesses of all sizes bring their ideas to life.
