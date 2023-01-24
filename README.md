@@ -12,12 +12,9 @@ Skills: HTML | CSS | Javascript
 
 -Open Source Contributions
 
-
 ### I’m currently learning:
 
--Node.JS as my intro to backend development
-
--after I have a good grasp of Node I will begin learning MongoDB
+-Node.JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tlankford87)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tlankforddev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tlankford_dev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](tlankford.netlify.app)  
